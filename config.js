@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha :(',
     question: 'hí hí tớ biết mà :3. Sao thích dọ :3',
     btnReply: 'Gửi cho bạn :>',
-    reply: 'Tại Kal vừa đẹp trai vừa giỏi ớ lại còn sống tình cảm :3',
+    reply: 'Tại Kal vừa đẹp trai vừa giỏi ớ lại còn sống tình cỏm :3',
     mess: 'Lọn cứ suy nghĩ đi, dù câu trả lời như thế nào thì mình cũng chấp nhận hết. ',
     messDesc: 'Nào Lọn qua Thủ Đức mình cùng nhau đi ăn kem nha :3.',
     btnAccept: 'Okiiiii lun <3',
