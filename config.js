@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn :>',
     reply: 'Tại Kal vừa đẹp trai vừa giỏi, lại còn rất quan tâm đến mình ><',
     mess: 'Mình biết mà 🥰. Mình cũng thích Lọn lắm ớ hehe 😘😘',
-    messDesc: 'Tụi mình tìm hiểu nhau nhaaaaaa.',
+    messDesc: 'Nào Lọn qua Thủ Đức mình cùng nhau đi ăn kem nha :3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/CSyRTM/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
